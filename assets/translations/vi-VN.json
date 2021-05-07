@@ -1,0 +1,15 @@
+{
+  "app": {
+    "title": "Todo"
+  },
+  "tasks": {
+    "title": "Your Tasks",
+    "all": "All",
+    "new_task": "New task",
+    "save": "Save",
+    "empty_task_list": "You have no task. \n Tap (+) to create a new task."
+  },
+  "msg": {
+    "unexpected_error": "Unexpected error occurred"
+  }
+}
